@@ -27,7 +27,10 @@ public class Esercizio07 {
 			} else if (menu == 2) {
 				System.out.println("Oggi è il 7/10/2025");
 			}
-			System.out.println("Scegle un opizione: 1-Saluto, 2-Mostra a data, 3-Esci");
+			System.out.println("-----MENU-----");
+			System.out.println("1-Saluta");
+			System.out.println("2-Mostra data");
+			System.out.println("3-Esci");
 			menu = scan.nextInt();
 			scan.nextLine();
 
@@ -39,5 +42,6 @@ public class Esercizio07 {
 		
 		
 	}
+
 
 
