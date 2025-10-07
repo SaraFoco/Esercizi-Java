@@ -31,6 +31,7 @@ public class Esercizio07 {
 			System.out.println("1-Saluta");
 			System.out.println("2-Mostra data");
 			System.out.println("3-Esci");
+			System.out.println("Scrivi il numero corrispondente alla tua scelta: ");
 			menu = scan.nextInt();
 			scan.nextLine();
 
@@ -42,6 +43,7 @@ public class Esercizio07 {
 		
 		
 	}
+
 
 
 
